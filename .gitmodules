@@ -1,0 +1,3 @@
+[submodule "extensions/prison"]
+	path = extensions/prison
+	url = https://github.com/KDE/prison.git

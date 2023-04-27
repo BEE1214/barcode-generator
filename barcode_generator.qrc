@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="barcode_generator">
+    </qresource>
+</RCC>
