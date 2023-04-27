@@ -1,6 +1,0 @@
-[submodule "extensions/prison"]
-	path = extensions/prison
-	url = https://github.com/KDE/prison.git
-[submodule "extensions/qxlsx"]
-	path = extensions/qxlsx
-	url = https://github.com/QtExcel/QXlsx.git
