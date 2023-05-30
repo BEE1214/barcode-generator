@@ -1,4 +1,4 @@
-#include "barcode_generator.h"
+#include "barcode_generator.hpp"
 #include <QtWidgets/QApplication>
 
 int main(int argc, char *argv[])

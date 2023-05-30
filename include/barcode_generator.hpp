@@ -1,7 +1,6 @@
 #pragma once
 
 #include <QtWidgets/QMainWindow>
-#include "ui_barcode_generator.h"
 
 class barcode_generator : public QMainWindow
 {
@@ -12,5 +11,4 @@ public:
     ~barcode_generator();
 
 private:
-    Ui::barcode_generatorClass ui;
 };

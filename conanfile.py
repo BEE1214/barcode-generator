@@ -16,15 +16,16 @@ class BarcodeGenerator(ConanFile):
     )
     exports_sources = (
         "include/*",
-        "src/*",
+        "src/**",
         "CMakeLists.txt",
     )
     requires = (
         "qtxlsxwriter/0.3.0",
-        "qt/6.5.0",
+        "qt/5.15.9",
         "zint/2.10.0",
         "spdlog/1.8.5",
         "nlohmann_json/3.10.5",
+        "libpng/1.6.38",
     )
 
     options = {
