@@ -1,3 +1,5 @@
+# Folders
+.cache/
 # C++ objects and libs
 *.slo
 *.lo
