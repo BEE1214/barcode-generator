@@ -2,7 +2,13 @@
 // Created by adamd on 12/6/23.
 //
 
-#ifndef TABLE_SELECT_HPP
-#define TABLE_SELECT_HPP
+#pragma once
+#include <QWidget>
 
-#endif //TABLE_SELECT_HPP
+namespace mainwindow {
+    class TableSelect: public QWidget {
+        Q_OBJECT
+    public:
+
+    };
+}
